@@ -1,15 +1,4 @@
 .App {
   text-align: center;
-}
-
-input {
-  padding: 8px;
-  font-size: 16px;
-  margin-top: 8px;
-}
-
-.sound {
-  font-size: 16px;
-  margin: 4px;
-  display: inline-block;
+  margin: 20px;
 }
